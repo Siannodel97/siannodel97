@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE1EE9&center=true&width=435&lines=Physicist+%7C+Computer+Science;Cybersecurity+student;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I am a Physicist and I am studying a Cybersecurity Master's Degree. I like to process, analyze and predict many type of datasets. <br>
+<h4 align="center">I am Physicist and Cybersecurity Master's Degree student. I like to process, analyze and predict many type of datasets. <br>
   I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
